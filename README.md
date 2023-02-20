@@ -1,2 +1,2 @@
-# StudentManagement
-Java Mini project using spring boot
+# Student Management
+Java project using spring boot
